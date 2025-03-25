@@ -9,3 +9,7 @@ for i in range(1, len(array)):
 
     
 print(array)
+
+"""
+2번째 데이터 부터 시작하여 데이터를 비교 후 적절한 위치에 삽입
+"""

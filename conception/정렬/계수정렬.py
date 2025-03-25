@@ -8,3 +8,7 @@ for i in range(len(array)):
 for i in range(len(count)):
     for j in range(count[i]):
         print(i, end=' ')
+
+"""
+모든 원소의 값이 0보다 크거나 같다고 가정
+"""
